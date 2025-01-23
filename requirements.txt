@@ -1,5 +1,5 @@
-tensorflow
-streamlit
+numpy
 Image
 matplotlib
-numpy
+streamlit
+tensorflow
